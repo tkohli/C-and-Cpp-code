@@ -1,4 +1,4 @@
-// WAP to check percentage of student
+// WAP to check percentage of student at cryptch
 #include<stdio.h>
 int main(){
 	float m,p,c,e,cs,per;
